@@ -1,2 +1,12 @@
 # SurveyForm
-A Survey form which uses:  input as text, number, email,  text-area, radio, checkboxes, buttons and text option.
+A Survey form which uses input as:
+- Input text
+  - Text
+  - Number 
+  - Email
+- Text-area
+- Buttons
+  - Radio
+  - Checkboxes
+- Text option
+- Submit button
