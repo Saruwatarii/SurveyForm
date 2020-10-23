@@ -10,3 +10,6 @@ A Survey form which uses input as:
   - Checkboxes
 - Text option
 - Submit button
+
+**Screenshot:**
+![Survey Form about Botanic](https://github.com/Saruwatarii/SurveyForm/blob/main/survey-form-ss.jpg)
